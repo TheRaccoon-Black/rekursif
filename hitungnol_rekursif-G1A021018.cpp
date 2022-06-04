@@ -1,3 +1,6 @@
+//Muhammad Fachrurrozi
+//G1A021018
+
 #include<iostream>
 using namespace std;
 int hitungnol(int angka)
